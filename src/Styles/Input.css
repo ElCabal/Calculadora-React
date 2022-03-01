@@ -1,0 +1,11 @@
+.container_input {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  background-color: rgb(43, 100, 150);
+  height: 3rem;
+  width: 20%;
+  border: none;
+}
